@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Author: Hayashi 林
+# @Author: LIN
 # @Date  : 2022/3/27 19:52
 # 世界中に嵐を巻き起こしよう
 
