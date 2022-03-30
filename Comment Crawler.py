@@ -98,7 +98,7 @@ class Crawler(object):
         self.browser.close()
 
 
-url_list = ['https://music.163.com/#/song?id=30612859', 'https://music.163.com/#/song?id=1487546210']
+url_list = ['https://music.163.com/#/song?id=30612859']
 for url_num in range(len(url_list)):
     url = url_list[url_num]
     print('开始下载：', url_num)
